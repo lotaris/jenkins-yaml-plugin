@@ -44,7 +44,7 @@ public class YamlVariablesBuilder extends Builder {
 		this.mapLocation = mapLocation;
 	}
 
-	public String getConfigurationFile() {
+	public String getYamlFile() {
 		return yamlFile;
 	}
 
